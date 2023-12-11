@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Idrismunirat
-- 👀 I’m interested in solving complex problems and also help business make better decisions  
+- 👀 I’m interested in solving complex problems and also analyse data to help organizations to make better decisions
 - 🌱 I’m currently learning data analytics 
 - 💞️ I’m looking to collaborate on data analysis and analytics expert 
 - 📫 How to reach me idrismunirat411@gmail.com
